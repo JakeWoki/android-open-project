@@ -35,7 +35,7 @@
 <br>[WindRoseDiagramView](https://github.com/timqi/WindRoseDiagramView)
 <br>![image](https://github.com/timqi/WindRoseDiagramView/raw/master/art/WindRoseDiagram.gif)
 <br>[swipe-action-layout](https://github.com/prolificinteractive/swipe-action-layout)
-<br>![image](https://github.com/prolificinteractive/swipe-action-layout/raw/master/images/demo1.gif)
+<br>![image](https://github.com/prolificinteractive/swipe-action-layout/raw/master/images/demo2.gif)
 <br>[paper-onboarding-android](https://github.com/Ramotion/paper-onboarding-android)
 <br>![image](https://github.com/Ramotion/paper-onboarding-android/raw/master/onboarding_preview.gif)
 <br>[ScratchView](https://github.com/cooltechworks/ScratchView)
