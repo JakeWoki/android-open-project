@@ -54,6 +54,8 @@
 <br>![image](https://raw.githubusercontent.com/TangXiaoLv/EffectiveShapeView/master/png/first.jpg)
 <br>[FloatMenuSample](https://github.com/crosg/FloatMenuSample)
 <br>![image](https://github.com/crosg/FloatMenuSample/raw/master/pickture/20160503125603.png)
+<br>[FloatViewFinal](https://github.com/pengjianbo/FloatViewFinal)
+<br>![image](https://github.com/pengjianbo/FloatViewFinal/raw/master/images/screenshot0.png)
 <br>[android-widget-ticktock](https://github.com/BCGDV-ASIA/android-widget-ticktock)
 <br>![image](https://camo.githubusercontent.com/a99213ab9cbd3056b71b34d551d984ed422a438c/687474703a2f2f692e67697068792e636f6d2f50647835314a426635663930412e676966)
 <br>[android-widget-fanmenu](https://github.com/BCGDV-ASIA/android-widget-fanmenu)
