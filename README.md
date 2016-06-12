@@ -105,6 +105,8 @@
 <br>[AndroidCommon](https://github.com/h4de5ing/AndroidCommon)
 <br>[AndroidUtils](https://github.com/WuXiaolong/AndroidUtils)
 <br>[android-common](https://github.com/Trinea/android-common)
+<br>[android-utils](https://github.com/jingle1267/android-utils)
+<br>[android-common](https://github.com/litesuits/android-common)
 <br>
 <br>
 <br>***architecture***
