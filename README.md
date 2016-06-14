@@ -67,7 +67,7 @@
 <br>***JS***
 <br>[javascript](https://github.com/yuche/javascript)
 <br>[JsBridge](https://github.com/lzyzsd/JsBridge)
-<br>[JsBridge](https://github.com/lzyzsd/JsBridge)
+<br>[JsBridge](https://github.com/pengwei1024/JsBridge)
 <br>
 <br>***GIF***
 <br>[android-gif-drawable](https://github.com/koral--/android-gif-drawable)
