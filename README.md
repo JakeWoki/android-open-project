@@ -40,6 +40,7 @@
 <br>
 <br>
 <br>***others***
+<br>[GalleryFinal](https://github.com/pengjianbo/GalleryFinal)
 <br>
 <br>***Image Picker***
 <br>[GalleryFinal](https://github.com/pengjianbo/GalleryFinal)
@@ -131,4 +132,4 @@
 <br>
 <br>
 <br>[Android-Dev-Favorites](https://github.com/ruijun/Android-Dev-Favorites)
-<br>[awesome-android#json](https://github.com/JStumpp/awesome-android#json)
+<br>[awesome-android](https://github.com/JStumpp/awesome-android)
