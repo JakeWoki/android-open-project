@@ -12,6 +12,7 @@
 <br>***material design***
 <br>[material_design_zh_2](https://github.com/1sters/material_design_zh_2)
 <br>[material-design-dimens](https://github.com/DmitryMalkovich/material-design-dimens)
+<br>[cheesesquare](https://github.com/chrisbanes/cheesesquare)
 <br>[Android-Material-Themes-Demo](https://github.com/StevenByle/Android-Material-Themes-Demo)
 <br>[MaterialPreference](https://github.com/codevscolor/MaterialPreference)
 <br>[LollipopContactsRecyclerViewFastScroller](https://github.com/AndroidDeveloperLB/LollipopContactsRecyclerViewFastScroller)
