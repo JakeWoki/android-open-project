@@ -20,7 +20,12 @@
 <br>[MaterialFilePicker](https://github.com/nbsp-team/MaterialFilePicker)
 <br>[DesignSupportLibraryDemo](https://github.com/xuyisheng/DesignSupportLibraryDemo)
 <br>[material-icon-lib](https://github.com/code-mc/material-icon-lib)
-<br>[MagicalCamera](https://github.com/fabian7593/MagicalCamera)
+<br>[MagicalCamera](https://github.com/fabian7593/MagicalCamera)<br>
+<br>
+<br>***首次启动指导提示***
+<br>[HighLightGuideView](https://github.com/jaydenxiao2016/HighLightGuideView)
+<br>[GuideView](https://github.com/binIoter/GuideView)
+<br>[TourGuide](https://github.com/worker8/TourGuide)
 <br>
 <br>
 <br>***Utils***
