@@ -26,6 +26,7 @@
 <br>[HighLightGuideView](https://github.com/jaydenxiao2016/HighLightGuideView)
 <br>[GuideView](https://github.com/binIoter/GuideView)
 <br>[TourGuide](https://github.com/worker8/TourGuide)
+<br>[TutoShowcase](https://github.com/florent37/TutoShowcase)
 <br>
 <br>
 <br>***Utils***
