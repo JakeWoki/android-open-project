@@ -38,6 +38,10 @@
 <br>[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
 <br>
 <br>
+<br>***新手引导库***
+<br>[GuideView](https://github.com/binIoter/GuideView)
+<br>
+<br>
 <br>***architecture***
 <br>[Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture)
 <br>[Blade](https://github.com/FrantisekGazo/Blade)
