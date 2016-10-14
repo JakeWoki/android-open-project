@@ -27,6 +27,7 @@
 <br>[GuideView](https://github.com/binIoter/GuideView)
 <br>[TourGuide](https://github.com/worker8/TourGuide)
 <br>[TutoShowcase](https://github.com/florent37/TutoShowcase)
+<br>[ShowcaseView](https://github.com/amlcurran/ShowcaseView)
 <br>
 <br>
 <br>***Utils***
@@ -36,10 +37,6 @@
 <br>[android-utils](https://github.com/jingle1267/android-utils)
 <br>[android-common](https://github.com/litesuits/android-common)
 <br>[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
-<br>
-<br>
-<br>***新手引导库***
-<br>[GuideView](https://github.com/binIoter/GuideView)
 <br>
 <br>
 <br>***下一步指示器***
