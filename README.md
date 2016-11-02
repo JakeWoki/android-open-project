@@ -28,6 +28,7 @@
 <br>[TourGuide](https://github.com/worker8/TourGuide)
 <br>[TutoShowcase](https://github.com/florent37/TutoShowcase)
 <br>[ShowcaseView](https://github.com/amlcurran/ShowcaseView)
+<br>[MaterialIntroView](https://github.com/iammert/MaterialIntroView)
 <br>
 <br>
 <br>***Utils***
