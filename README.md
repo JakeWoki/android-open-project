@@ -29,6 +29,7 @@
 <br>[TutoShowcase](https://github.com/florent37/TutoShowcase)
 <br>[ShowcaseView](https://github.com/amlcurran/ShowcaseView)
 <br>[MaterialIntroView](https://github.com/iammert/MaterialIntroView)
+<br>[Spotlight](https://github.com/wooplr/Spotlight)
 <br>
 <br>
 <br>***Utils***
