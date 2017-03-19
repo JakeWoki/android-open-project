@@ -30,6 +30,7 @@
 <br>[ShowcaseView](https://github.com/amlcurran/ShowcaseView)
 <br>[MaterialIntroView](https://github.com/iammert/MaterialIntroView)
 <br>[Spotlight](https://github.com/wooplr/Spotlight)
+<br>[FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)
 <br>
 <br>
 <br>***Utils***
