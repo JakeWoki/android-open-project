@@ -31,6 +31,7 @@
 <br>[MaterialIntroView](https://github.com/iammert/MaterialIntroView)
 <br>[Spotlight](https://github.com/wooplr/Spotlight)
 <br>[FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)
+<br>[Spotlight](https://github.com/TakuSemba/Spotlight)
 <br>
 <br>
 <br>***Utils***
