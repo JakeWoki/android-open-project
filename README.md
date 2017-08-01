@@ -1,6 +1,11 @@
 # android-open-project
 <br>
 <br>
+<br>[Skeleton](https://github.com/ethanhua/Skeleton)
+<br>[FiftyShadesOf](https://github.com/florent37/FiftyShadesOf)
+<br>[loaderviewlibrary](https://github.com/elye/loaderviewlibrary)
+<br>
+<br>
 <br>***Animation***
 <br>[yava](https://github.com/hujiaweibujidao/yava)
 <br>[wava](https://github.com/hujiaweibujidao/wava)
