@@ -37,6 +37,7 @@
 <br>[Spotlight](https://github.com/wooplr/Spotlight)
 <br>[FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)
 <br>[Spotlight](https://github.com/TakuSemba/Spotlight)
+<br>[NewbieGuide](https://github.com/huburt-Hu/NewbieGuide)
 <br>
 <br>
 <br>***Utils***
