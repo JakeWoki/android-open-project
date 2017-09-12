@@ -38,6 +38,7 @@
 <br>[FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)
 <br>[Spotlight](https://github.com/TakuSemba/Spotlight)
 <br>[NewbieGuide](https://github.com/huburt-Hu/NewbieGuide)
+<br>[hintcase](https://github.com/Nescafemix/hintcase)
 <br>
 <br>
 <br>***Utils***
